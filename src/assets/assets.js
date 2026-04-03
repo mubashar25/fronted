@@ -5,10 +5,6 @@ import laptop from "./image 34.png";
 import watch from "./image 35.png";
 import chair from "./rasm.png";
 import lamp from "./image 94.png";
-import watch1 from "./image 35.png";
-import laptop1 from "./image 34.png";
-import mobile2 from "./image 23.png";
-import headphone3 from "./image 29.png";
 
 // WATCH
 import watcha4 from "./61qxr0hR-SL._AC_SL1500_.jpg";
@@ -33,7 +29,6 @@ import speaker4 from "./image 29.png";
 import band4 from "./image 29.png";
 import lens4 from "./image 29.png";
 import tablet4 from "./image 29.png";
-import powerbank4 from "./image 29.png";
 
 export const dealItems = [
   {
