@@ -16,7 +16,7 @@ const OrdersPage = () => {
     }
 
     fetchOrders();
-  }, []);
+  }, [user, navigate]);
 
   const fetchOrders = async () => {
     try {
